@@ -9,6 +9,7 @@ Comprehensive study plan for **SDLC** (Software Development Life Cycle) and **SQ
 |-----------|-----------|-------------|
 | **SDLC** | [`/SDLC`](SDLC/) | 3-day plan · 2 hours/day · Top 30 interview Q&As |
 | **SQL** | [`/SQL`](SQL/) | 3-day plan · 2 hours/day · Theory + hands-on SQL files · Top 30 interview Q&As |
+| **Scenario A** | [`/ScenarioA`](ScenarioA/) | Network topology diagram (DMZ) + Authentication & Privilege security analysis |
 
 ---
 
