@@ -96,7 +96,7 @@ In draw.io: right-click the connector → *Edit Connection* → type the label t
 
 ### Figure Caption (paste under the diagram in your report)
 
-> The Web Application is hosted on a dedicated **Web Server in the DMZ (public-facing zone)**, placed behind the Perimeter Firewall and accessible from the Internet **only over HTTPS (TCP 443)**. The **Customer Database** and **Analytics Server** reside on the **Internal Server Network** and are not directly reachable from the Internet; access is limited to required application/data flows from the web tier. Admin/developer access from the Bristol office to the data-centre is routed through a **VPN tunnel terminating on the Perimeter Firewall**, ensuring that management ports are never exposed to the public Internet. This segmentation reduces the blast radius of a public-facing web server compromise and protects sensitive customer data and compute resources.
+> The Web Application is hosted on a dedicated **Web Server in the DMZ (public-facing zone)**, placed behind the Perimeter Firewall and accessible from the Internet **only over HTTPS (TCP 443)**. The **Customer Database** and **Analytics Server** reside on the **Internal Server Network** and are not directly reachable from the Internet; access is limited to required application/data flows from the web tier. Admin/developer access from the Bristol office to the data centre is routed through a **VPN tunnel terminating on the Perimeter Firewall**, ensuring that management ports are never exposed to the public Internet. This segmentation reduces the blast radius of a public-facing web server compromise and protects sensitive customer data and compute resources.
 
 ---
 
