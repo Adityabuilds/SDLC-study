@@ -9,6 +9,17 @@ Comprehensive study plan for **SDLC** (Software Development Life Cycle) and **SQ
 |-----------|-----------|-------------|
 | **SDLC** | [`/SDLC`](SDLC/) | 3-day plan · 2 hours/day · Top 30 interview Q&As |
 | **SQL** | [`/SQL`](SQL/) | 3-day plan · 2 hours/day · Theory + hands-on SQL files · Top 30 interview Q&As |
+| **Docs** | [`/docs`](docs/) | Scenario diagrams, draw.io editing guides, and Mermaid source |
+
+---
+
+## Scenario Diagrams
+
+📁 [`docs/`](docs/)
+
+| Scenario | File | Description |
+|----------|------|-------------|
+| Scenario A — Network Topology | [`docs/scenario-a-topology.md`](docs/scenario-a-topology.md) | draw.io editing guide · Mermaid diagram · DMZ and internal zone explanation |
 
 ---
 
