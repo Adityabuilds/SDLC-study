@@ -36,7 +36,6 @@ flowchart TB
 
     subgraph DMZ[DMZ - Public-facing]
       WebServer[Web Server - Customer website and login]
-      DMZNote[DMZ = internet-reachable zone behind firewall]
     end
 
     subgraph INT[Internal Server Network]
