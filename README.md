@@ -9,6 +9,27 @@ Comprehensive study plan for **SDLC** (Software Development Life Cycle) and **SQ
 |-----------|-----------|-------------|
 | **SDLC** | [`/SDLC`](SDLC/) | 3-day plan · 2 hours/day · Top 30 interview Q&As |
 | **SQL** | [`/SQL`](SQL/) | 3-day plan · 2 hours/day · Theory + hands-on SQL files · Top 30 interview Q&As |
+| **Scenario A** | [`/ScenarioA`](ScenarioA/) | Construct 3D case study — network topology diagram, DMZ/web server zone, authentication & privilege analysis |
+
+---
+
+## Scenario A — Construct 3D (Cyber Security Case Study)
+
+📁 [`ScenarioA/`](ScenarioA/)
+
+| Document | Description |
+|----------|-------------|
+| [Network Topology Diagram](ScenarioA/network-topology.md) | Mermaid diagram (draw.io-compatible) showing all network zones including the **Web Server Zone (DMZ)**, perimeter firewall, internal LAN, analytics server, and cloud services |
+
+### Web Server Zone — Quick Answer
+
+> **Where is the Web Server zone?**
+> The Web Server is in the **DMZ (Demilitarised Zone)** — the public-facing network segment
+> inside the local data centre, located **behind the perimeter firewall** and **in front of the
+> internal firewall**. It is reachable from the internet on **HTTPS port 443 only**.
+> All other internal systems are isolated behind the internal firewall.
+
+See [`ScenarioA/network-topology.md`](ScenarioA/network-topology.md) for the full labelled diagram and zone descriptions.
 
 ---
 
