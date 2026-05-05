@@ -49,3 +49,13 @@ psql -U postgres -f SQL/Day1-hands-on.sql
 ```
 
 All SQL files use standard ANSI SQL and are compatible with **MySQL 8+**, **PostgreSQL 13+**, and **SQLite 3**.
+
+---
+
+## Security Assignment — Scenario A
+
+📁 [`docs/`](docs/)
+
+| Document | Description |
+|----------|-------------|
+| [Scenario A — Network Topology (Part A1)](docs/scenario-a-topology.md) | A1 checklist, figure caption, and draw.io-compatible Mermaid diagram (DMZ · Internal Network · SaaS Cloud · VPN admin access) |
